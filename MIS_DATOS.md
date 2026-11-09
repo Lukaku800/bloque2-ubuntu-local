@@ -1,0 +1,2 @@
+-Alumno: Lucas Chico
+-Grupo: 2º SMR
